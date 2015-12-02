@@ -1,0 +1,8 @@
+{
+  "commands" : {
+    "list" : [
+      {"name" : "connecct"},
+      {"name" : "disconnect"}
+    ]
+  }
+}
